@@ -8,17 +8,6 @@
 
 🎮 Gamer with an eye for design and aesthetics.
 
-<svg width="1000" height="10" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <pattern id="striped" patternUnits="userSpaceOnUse" width="20" height="20" patternTransform="rotate(-45)">
-      <rect width="10" height="20" fill="red"/>
-      <rect x="10" width="10" height="20" fill="transparent"/>
-      <animateTransform attributeName="patternTransform" type="translate" from="0 0" to="20 0" dur="1s" repeatCount="indefinite" additive="sum"/>
-    </pattern>
-  </defs>
-  <rect width="1000" height="10" fill="url(#striped)"></rect>
-</svg>
-
 <h1>📬 Contact Me</h1>
 <div align="center">
 
